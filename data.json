@@ -1,5 +1,5 @@
 {
-    "name": "Bharat Agsrwal",
+    "name": "Naman Singhal",
     "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
@@ -20,13 +20,13 @@
             "title": "Skill 5",
             "rating": "78"
         },{
-            "title": "Skill 6",
+            "title": "Skill 7",
             "rating": "90"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Chitkara University",
+        "phone": "9417920051",
+        "email": "namansinghal7420@gmail.com"
     }
 }
